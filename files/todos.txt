@@ -1,0 +1,4 @@
+shower
+prepare
+play
+fix
